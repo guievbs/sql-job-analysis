@@ -1,0 +1,850 @@
+[
+  {
+    "skills": "python",
+    "demand_count": "10390"
+  },
+  {
+    "skills": "sql",
+    "demand_count": "7488"
+  },
+  {
+    "skills": "r",
+    "demand_count": "4674"
+  },
+  {
+    "skills": "aws",
+    "demand_count": "2593"
+  },
+  {
+    "skills": "tableau",
+    "demand_count": "2458"
+  },
+  {
+    "skills": "sas",
+    "demand_count": "2214"
+  },
+  {
+    "skills": "spark",
+    "demand_count": "2008"
+  },
+  {
+    "skills": "azure",
+    "demand_count": "1919"
+  },
+  {
+    "skills": "tensorflow",
+    "demand_count": "1836"
+  },
+  {
+    "skills": "pandas",
+    "demand_count": "1836"
+  },
+  {
+    "skills": "pytorch",
+    "demand_count": "1607"
+  },
+  {
+    "skills": "excel",
+    "demand_count": "1264"
+  },
+  {
+    "skills": "scikit-learn",
+    "demand_count": "1252"
+  },
+  {
+    "skills": "hadoop",
+    "demand_count": "1214"
+  },
+  {
+    "skills": "numpy",
+    "demand_count": "1195"
+  },
+  {
+    "skills": "power bi",
+    "demand_count": "1125"
+  },
+  {
+    "skills": "git",
+    "demand_count": "1095"
+  },
+  {
+    "skills": "java",
+    "demand_count": "1073"
+  },
+  {
+    "skills": "databricks",
+    "demand_count": "951"
+  },
+  {
+    "skills": "gcp",
+    "demand_count": "808"
+  },
+  {
+    "skills": "snowflake",
+    "demand_count": "759"
+  },
+  {
+    "skills": "scala",
+    "demand_count": "741"
+  },
+  {
+    "skills": "pyspark",
+    "demand_count": "706"
+  },
+  {
+    "skills": "keras",
+    "demand_count": "679"
+  },
+  {
+    "skills": "docker",
+    "demand_count": "676"
+  },
+  {
+    "skills": "go",
+    "demand_count": "652"
+  },
+  {
+    "skills": "matplotlib",
+    "demand_count": "621"
+  },
+  {
+    "skills": "mongodb",
+    "demand_count": "532"
+  },
+  {
+    "skills": "nosql",
+    "demand_count": "518"
+  },
+  {
+    "skills": "javascript",
+    "demand_count": "491"
+  },
+  {
+    "skills": "github",
+    "demand_count": "464"
+  },
+  {
+    "skills": "looker",
+    "demand_count": "460"
+  },
+  {
+    "skills": "airflow",
+    "demand_count": "460"
+  },
+  {
+    "skills": "c++",
+    "demand_count": "454"
+  },
+  {
+    "skills": "jupyter",
+    "demand_count": "438"
+  },
+  {
+    "skills": "oracle",
+    "demand_count": "433"
+  },
+  {
+    "skills": "redshift",
+    "demand_count": "429"
+  },
+  {
+    "skills": "kubernetes",
+    "demand_count": "422"
+  },
+  {
+    "skills": "bigquery",
+    "demand_count": "405"
+  },
+  {
+    "skills": "matlab",
+    "demand_count": "394"
+  },
+  {
+    "skills": "flow",
+    "demand_count": "393"
+  },
+  {
+    "skills": "linux",
+    "demand_count": "371"
+  },
+  {
+    "skills": "sql server",
+    "demand_count": "358"
+  },
+  {
+    "skills": "word",
+    "demand_count": "355"
+  },
+  {
+    "skills": "powerpoint",
+    "demand_count": "340"
+  },
+  {
+    "skills": "kafka",
+    "demand_count": "335"
+  },
+  {
+    "skills": "mysql",
+    "demand_count": "329"
+  },
+  {
+    "skills": "c",
+    "demand_count": "327"
+  },
+  {
+    "skills": "postgresql",
+    "demand_count": "262"
+  },
+  {
+    "skills": "jira",
+    "demand_count": "258"
+  },
+  {
+    "skills": "seaborn",
+    "demand_count": "239"
+  },
+  {
+    "skills": "qlik",
+    "demand_count": "232"
+  },
+  {
+    "skills": "plotly",
+    "demand_count": "204"
+  },
+  {
+    "skills": "spss",
+    "demand_count": "203"
+  },
+  {
+    "skills": "nltk",
+    "demand_count": "167"
+  },
+  {
+    "skills": "html",
+    "demand_count": "164"
+  },
+  {
+    "skills": "jenkins",
+    "demand_count": "162"
+  },
+  {
+    "skills": "sap",
+    "demand_count": "162"
+  },
+  {
+    "skills": "ruby",
+    "demand_count": "156"
+  },
+  {
+    "skills": "elasticsearch",
+    "demand_count": "148"
+  },
+  {
+    "skills": "vba",
+    "demand_count": "147"
+  },
+  {
+    "skills": "gitlab",
+    "demand_count": "146"
+  },
+  {
+    "skills": "cassandra",
+    "demand_count": "144"
+  },
+  {
+    "skills": "flask",
+    "demand_count": "139"
+  },
+  {
+    "skills": "c#",
+    "demand_count": "138"
+  },
+  {
+    "skills": "shell",
+    "demand_count": "138"
+  },
+  {
+    "skills": "ssrs",
+    "demand_count": "129"
+  },
+  {
+    "skills": "react",
+    "demand_count": "123"
+  },
+  {
+    "skills": "confluence",
+    "demand_count": "122"
+  },
+  {
+    "skills": "opencv",
+    "demand_count": "121"
+  },
+  {
+    "skills": "unix",
+    "demand_count": "118"
+  },
+  {
+    "skills": "windows",
+    "demand_count": "112"
+  },
+  {
+    "skills": "alteryx",
+    "demand_count": "111"
+  },
+  {
+    "skills": "julia",
+    "demand_count": "111"
+  },
+  {
+    "skills": "bash",
+    "demand_count": "109"
+  },
+  {
+    "skills": "spring",
+    "demand_count": "101"
+  },
+  {
+    "skills": "express",
+    "demand_count": "100"
+  },
+  {
+    "skills": "outlook",
+    "demand_count": "96"
+  },
+  {
+    "skills": "gdpr",
+    "demand_count": "95"
+  },
+  {
+    "skills": "crystal",
+    "demand_count": "95"
+  },
+  {
+    "skills": "perl",
+    "demand_count": "92"
+  },
+  {
+    "skills": "sheets",
+    "demand_count": "92"
+  },
+  {
+    "skills": "django",
+    "demand_count": "90"
+  },
+  {
+    "skills": "neo4j",
+    "demand_count": "90"
+  },
+  {
+    "skills": "sharepoint",
+    "demand_count": "81"
+  },
+  {
+    "skills": "terraform",
+    "demand_count": "80"
+  },
+  {
+    "skills": "ssis",
+    "demand_count": "79"
+  },
+  {
+    "skills": "css",
+    "demand_count": "78"
+  },
+  {
+    "skills": "phoenix",
+    "demand_count": "75"
+  },
+  {
+    "skills": "bitbucket",
+    "demand_count": "73"
+  },
+  {
+    "skills": "slack",
+    "demand_count": "71"
+  },
+  {
+    "skills": "hugging face",
+    "demand_count": "69"
+  },
+  {
+    "skills": "php",
+    "demand_count": "68"
+  },
+  {
+    "skills": "dax",
+    "demand_count": "63"
+  },
+  {
+    "skills": "mxnet",
+    "demand_count": "57"
+  },
+  {
+    "skills": "ggplot2",
+    "demand_count": "57"
+  },
+  {
+    "skills": "dynamodb",
+    "demand_count": "52"
+  },
+  {
+    "skills": "zoom",
+    "demand_count": "52"
+  },
+  {
+    "skills": "fastapi",
+    "demand_count": "51"
+  },
+  {
+    "skills": "splunk",
+    "demand_count": "50"
+  },
+  {
+    "skills": "powershell",
+    "demand_count": "47"
+  },
+  {
+    "skills": "tidyverse",
+    "demand_count": "47"
+  },
+  {
+    "skills": "microstrategy",
+    "demand_count": "46"
+  },
+  {
+    "skills": "cognos",
+    "demand_count": "46"
+  },
+  {
+    "skills": "node.js",
+    "demand_count": "45"
+  },
+  {
+    "skills": "atlassian",
+    "demand_count": "45"
+  },
+  {
+    "skills": "ansible",
+    "demand_count": "44"
+  },
+  {
+    "skills": "db2",
+    "demand_count": "44"
+  },
+  {
+    "skills": "angular",
+    "demand_count": "41"
+  },
+  {
+    "skills": "redis",
+    "demand_count": "41"
+  },
+  {
+    "skills": "theano",
+    "demand_count": "40"
+  },
+  {
+    "skills": "spreadsheet",
+    "demand_count": "38"
+  },
+  {
+    "skills": "mongo",
+    "demand_count": "38"
+  },
+  {
+    "skills": "t-sql",
+    "demand_count": "37"
+  },
+  {
+    "skills": "rust",
+    "demand_count": "37"
+  },
+  {
+    "skills": "datarobot",
+    "demand_count": "37"
+  },
+  {
+    "skills": "terminal",
+    "demand_count": "36"
+  },
+  {
+    "skills": "visio",
+    "demand_count": "35"
+  },
+  {
+    "skills": "dplyr",
+    "demand_count": "34"
+  },
+  {
+    "skills": "notion",
+    "demand_count": "32"
+  },
+  {
+    "skills": "typescript",
+    "demand_count": "32"
+  },
+  {
+    "skills": "swift",
+    "demand_count": "31"
+  },
+  {
+    "skills": "golang",
+    "demand_count": "31"
+  },
+  {
+    "skills": "unify",
+    "demand_count": "29"
+  },
+  {
+    "skills": "chef",
+    "demand_count": "28"
+  },
+  {
+    "skills": "graphql",
+    "demand_count": "26"
+  },
+  {
+    "skills": "no-sql",
+    "demand_count": "24"
+  },
+  {
+    "skills": "aurora",
+    "demand_count": "23"
+  },
+  {
+    "skills": "yarn",
+    "demand_count": "23"
+  },
+  {
+    "skills": "firebase",
+    "demand_count": "22"
+  },
+  {
+    "skills": "digitalocean",
+    "demand_count": "21"
+  },
+  {
+    "skills": "selenium",
+    "demand_count": "21"
+  },
+  {
+    "skills": "node",
+    "demand_count": "20"
+  },
+  {
+    "skills": "assembly",
+    "demand_count": "19"
+  },
+  {
+    "skills": "watson",
+    "demand_count": "19"
+  },
+  {
+    "skills": "planner",
+    "demand_count": "19"
+  },
+  {
+    "skills": "ubuntu",
+    "demand_count": "18"
+  },
+  {
+    "skills": "unity",
+    "demand_count": "18"
+  },
+  {
+    "skills": "jquery",
+    "demand_count": "18"
+  },
+  {
+    "skills": "rshiny",
+    "demand_count": "18"
+  },
+  {
+    "skills": "visual basic",
+    "demand_count": "16"
+  },
+  {
+    "skills": "vmware",
+    "demand_count": "14"
+  },
+  {
+    "skills": "svn",
+    "demand_count": "14"
+  },
+  {
+    "skills": "arch",
+    "demand_count": "14"
+  },
+  {
+    "skills": "vue",
+    "demand_count": "13"
+  },
+  {
+    "skills": "ms access",
+    "demand_count": "13"
+  },
+  {
+    "skills": "kotlin",
+    "demand_count": "11"
+  },
+  {
+    "skills": "firestore",
+    "demand_count": "11"
+  },
+  {
+    "skills": "twilio",
+    "demand_count": "11"
+  },
+  {
+    "skills": "sqlite",
+    "demand_count": "10"
+  },
+  {
+    "skills": "trello",
+    "demand_count": "10"
+  },
+  {
+    "skills": "microsoft teams",
+    "demand_count": "10"
+  },
+  {
+    "skills": "macos",
+    "demand_count": "10"
+  },
+  {
+    "skills": "asana",
+    "demand_count": "9"
+  },
+  {
+    "skills": "electron",
+    "demand_count": "9"
+  },
+  {
+    "skills": "puppet",
+    "demand_count": "9"
+  },
+  {
+    "skills": "mariadb",
+    "demand_count": "8"
+  },
+  {
+    "skills": "react.js",
+    "demand_count": "8"
+  },
+  {
+    "skills": "ibm cloud",
+    "demand_count": "8"
+  },
+  {
+    "skills": "smartsheet",
+    "demand_count": "7"
+  },
+  {
+    "skills": "solidity",
+    "demand_count": "7"
+  },
+  {
+    "skills": "flutter",
+    "demand_count": "7"
+  },
+  {
+    "skills": "ruby on rails",
+    "demand_count": "7"
+  },
+  {
+    "skills": "mlr",
+    "demand_count": "6"
+  },
+  {
+    "skills": "couchbase",
+    "demand_count": "6"
+  },
+  {
+    "skills": "next.js",
+    "demand_count": "5"
+  },
+  {
+    "skills": "npm",
+    "demand_count": "5"
+  },
+  {
+    "skills": "elixir",
+    "demand_count": "5"
+  },
+  {
+    "skills": "vue.js",
+    "demand_count": "5"
+  },
+  {
+    "skills": "codecommit",
+    "demand_count": "5"
+  },
+  {
+    "skills": "wire",
+    "demand_count": "5"
+  },
+  {
+    "skills": "laravel",
+    "demand_count": "5"
+  },
+  {
+    "skills": "heroku",
+    "demand_count": "4"
+  },
+  {
+    "skills": "openstack",
+    "demand_count": "4"
+  },
+  {
+    "skills": "centos",
+    "demand_count": "4"
+  },
+  {
+    "skills": "fortran",
+    "demand_count": "4"
+  },
+  {
+    "skills": "groovy",
+    "demand_count": "4"
+  },
+  {
+    "skills": "symphony",
+    "demand_count": "4"
+  },
+  {
+    "skills": "cobol",
+    "demand_count": "3"
+  },
+  {
+    "skills": "airtable",
+    "demand_count": "3"
+  },
+  {
+    "skills": "webex",
+    "demand_count": "3"
+  },
+  {
+    "skills": "delphi",
+    "demand_count": "3"
+  },
+  {
+    "skills": "monday.com",
+    "demand_count": "3"
+  },
+  {
+    "skills": "linode",
+    "demand_count": "3"
+  },
+  {
+    "skills": "pulumi",
+    "demand_count": "3"
+  },
+  {
+    "skills": "angular.js",
+    "demand_count": "2"
+  },
+  {
+    "skills": "debian",
+    "demand_count": "2"
+  },
+  {
+    "skills": "drupal",
+    "demand_count": "2"
+  },
+  {
+    "skills": "dart",
+    "demand_count": "2"
+  },
+  {
+    "skills": "clojure",
+    "demand_count": "2"
+  },
+  {
+    "skills": "svelte",
+    "demand_count": "2"
+  },
+  {
+    "skills": "tidyr",
+    "demand_count": "2"
+  },
+  {
+    "skills": "homebrew",
+    "demand_count": "2"
+  },
+  {
+    "skills": "vb.net",
+    "demand_count": "2"
+  },
+  {
+    "skills": "lisp",
+    "demand_count": "2"
+  },
+  {
+    "skills": "haskell",
+    "demand_count": "1"
+  },
+  {
+    "skills": "symfony",
+    "demand_count": "1"
+  },
+  {
+    "skills": "redhat",
+    "demand_count": "1"
+  },
+  {
+    "skills": "sass",
+    "demand_count": "1"
+  },
+  {
+    "skills": "asp.net",
+    "demand_count": "1"
+  },
+  {
+    "skills": "ringcentral",
+    "demand_count": "1"
+  },
+  {
+    "skills": "lua",
+    "demand_count": "1"
+  },
+  {
+    "skills": "play framework",
+    "demand_count": "1"
+  },
+  {
+    "skills": "powerbi",
+    "demand_count": "1"
+  },
+  {
+    "skills": "chainer",
+    "demand_count": "1"
+  },
+  {
+    "skills": "f#",
+    "demand_count": "1"
+  },
+  {
+    "skills": "mlpack",
+    "demand_count": "1"
+  },
+  {
+    "skills": "shogun",
+    "demand_count": "1"
+  },
+  {
+    "skills": "erlang",
+    "demand_count": "1"
+  },
+  {
+    "skills": "wrike",
+    "demand_count": "1"
+  },
+  {
+    "skills": "ocaml",
+    "demand_count": "1"
+  },
+  {
+    "skills": "apl",
+    "demand_count": "1"
+  }
+]
