@@ -55,7 +55,7 @@ Throughout this adventure, I've turbocharged my SQL toolkit with some serious fi
 ### Insights
 From the analysis, several general insights emerged:
 
-1. **Top-Paying Data Analyst Jobs**: The highest-paying jobs for data analysts that allow remote work offer a wide range of salaries, the highest at $650,000!
+1. **Top-Paying Data Analyst Jobs**: The highest-paying jobs for data that allow remote work offer a wide range of salaries, the highest at $650,000!
 2. **Skills for Top-Paying Jobs**: High-paying Data Scientist jobs require advanced proficiency in Python, suggesting it’s a critical skill for earning a top salary.
 3. **Most In-Demand Skills**: SQL is also the one of most demanded skill in the Data Scientist job market, thus making it essential for job seekers.
 4. **Skills with Higher Salaries**: Specialized skills, such as tensorflow and spark, are associated with the highest average salaries, indicating a premium on niche expertise.
